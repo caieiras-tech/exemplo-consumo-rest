@@ -1,0 +1,7 @@
+.App {
+  display: flex;
+  justify-content: space-around;
+  flex-grow: 0;
+  flex-wrap: wrap;
+
+}
